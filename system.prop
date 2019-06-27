@@ -3,4 +3,6 @@ ro.build.device=Z01KD
 # for stock ROM
 ro.product.device=ASUS_Z01KD_1
 ro.product.model=ASUS_Z01KD
-ro.product.name=OPEN_Phone
+
+ro.board.platform=sdm660
+ro.product.board=sdm660
